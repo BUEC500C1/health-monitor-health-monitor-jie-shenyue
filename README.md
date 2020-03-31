@@ -3,7 +3,7 @@
 - Display/Sensor: Shenyue Shao
 
 # Architecture
-
+![ICU-archi](https://github.com/BUEC500C1/health-monitor-health-monitor-jie-shenyue/blob/master/ICU-archi.png)
 
 # Environment
 This project working on the Pycharm. To achieve differnt files imported from different directory. At first need to set the source Directory
@@ -26,4 +26,4 @@ Everytime the program get the data from our Database. The data first will pass t
 The standard of normal data is already described in the code.
 
 # Prediction
-In the prediction function, we use the mean of our data as the predict data. Use the panda module to create a dataframe and all the data in our database will put into this dataframe.
+In the prediction function, we use the mean function to get the average of our data as the predict data. Use the panda module to create a dataframe and all the data in our database will put into this dataframe. 
