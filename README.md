@@ -1,4 +1,5 @@
 # Health-Monitor
+# Contribution
 - Database/Alert/Prediction: Jie Lu(jielu666@bu.edu)
 - Display/Sensor: Shengyao Shao(shengys@bu.edu）
 
@@ -28,7 +29,5 @@ The standard of normal data is already described in the code.
 # Prediction
 In the prediction function, we use the mean function to get the average of our data as the predict data. Use the panda module to create a dataframe and all the data in our database will put into this dataframe. 
 
-# Contribution
-Sensor, Display: Shengyao Shao
-Alert, Prediction, Firebase: Jie Lu
+
 
